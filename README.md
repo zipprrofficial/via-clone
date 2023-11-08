@@ -1,4 +1,4 @@
-A <a href="https://zipprr.com/category/via-clone/">Via clone script</a> is a multi-modal mobility platform that allows booking of different transportation services like ride-hailing, carpooling, public transit trips, micro-transit, bikes and scooters through a single interface.
+A <a href="https://zipprr.com/via-clone/">Via clone script</a> is a multi-modal mobility platform that allows booking of different transportation services like ride-hailing, carpooling, public transit trips, micro-transit, bikes and scooters through a single interface.
 
 <h2><b>Key Features</b></h2>
 
